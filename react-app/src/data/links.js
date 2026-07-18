@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Belmont County Commissioners (Official Site)", category: "Government", subcategory: "County", url: "https://belmontcountycommissioners.com/", description: "Official government site for Belmont County." },
